@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5945ee4e-359e-4c14-9f18-f1a1ceeb42f5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/behavioral-components/carousels.html" afterPath="$PROJECT_DIR$/behavioral-components/carousels.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab-1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            <state relative-caret-position="633">
+              <caret line="364" column="24" lean-forward="true" selection-start-line="344" selection-start-column="11" selection-end-line="364" selection-end-column="24" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -31,17 +32,10 @@
       <file leaf-file-name="carousels.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/behavioral-components/carousels.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="496">
+              <caret line="110" column="38" lean-forward="false" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="family.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab-1/family.JPG">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -58,6 +52,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>collapse</find>
+      <find>drop</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -83,7 +78,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="934" />
-    <option name="width" value="991" />
+    <option name="width" value="984" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -282,7 +277,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509542206588</updated>
       <workItem from="1509542207877" duration="21816000" />
-      <workItem from="1510118366043" duration="18372000" />
+      <workItem from="1510118366043" duration="20966000" />
     </task>
     <task id="LOCAL-00001" summary="Behavioral Components">
       <created>1510216608572</created>
@@ -295,10 +290,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40188000" />
+    <option name="totallyTimeSpent" value="42782000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="934" y="0" width="991" height="1038" extended-state="0" />
+    <frame x="934" y="0" width="984" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30729702" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -402,11 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab-1/family.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/behavioral-components/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -427,18 +417,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab-1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="633">
+          <caret line="364" column="24" lean-forward="true" selection-start-line="344" selection-start-column="11" selection-end-line="364" selection-end-column="24" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab-1/family.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/behavioral-components/carousels.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="496">
+          <caret line="110" column="38" lean-forward="false" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
           <folding />
         </state>
       </provider>
