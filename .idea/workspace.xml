@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5945ee4e-359e-4c14-9f18-f1a1ceeb42f5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/behavioral-components/collapse.html" />
+    <list default="true" id="5945ee4e-359e-4c14-9f18-f1a1ceeb42f5" name="Default" comment="Collapse -1">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -290,7 +289,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509542206588</updated>
       <workItem from="1509542207877" duration="21816000" />
-      <workItem from="1510118366043" duration="22297000" />
+      <workItem from="1510118366043" duration="22330000" />
     </task>
     <task id="LOCAL-00001" summary="Behavioral Components">
       <created>1510216608572</created>
@@ -306,11 +305,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510219387251</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Collapse -1">
+      <created>1510220721329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510220721329</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44113000" />
+    <option name="totallyTimeSpent" value="44146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="934" y="0" width="984" height="1038" extended-state="0" />
@@ -363,7 +369,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Behavioral Components" />
     <MESSAGE value="Dropdown" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dropdown" />
+    <MESSAGE value="Collapse -1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collapse -1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
