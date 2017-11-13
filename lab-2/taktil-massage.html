@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Taktil</title>
+</head>
+<body>
+
+<div class="container">
+    <nav class="navbar navbar-default bg">
+        <div class="navbar-header">
+            <button  class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="index.html" class="navbar-brand"> Massage site <span class="glyphicon glyphicon-home"></span> </a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="taktil-massage.html" class="dropdown-toggle" data-toggle="dropdown">Treatments <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header">Go to...</li>
+                        <li><a href="treatments.html">All treatments</a></li>
+                        <li><a href="classic-massage.html">Classic-massage</a></li>
+                        <li><a href="taktil-massage.html">Taktil</a></li>
+                    </ul>
+                </li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="index.html"><span class="glyphicon glyphicon-home"></span></a></li>
+
+        <li class="breadcrumb-item"><a href="treatments.html">Treatmen</a></li>
+        <li class="breadcrumb-item"><a href="classic-massage.html">Classic</a></li>
+        <li class="breadcrumb-item active">Taktil</li>
+    </ol>
+    <div class="jumbotron">
+        <h1 class="text-center">Taktil Massage</h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-7 col-sm-push-1">
+            <div class="row">
+                <div class="col-sm-4">
+                    <img class="img-responsive img-rounded" src="all-treatment.jpg" alt="alltreatment">
+                </div>
+                <div class="col-sm-8">
+                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dolorum id minus placeat tempora veritatis voluptatem. Ducimus excepturi impedit ipsa minima, nesciunt, omnis possimus quasi quis reprehenderit sed suscipit veniam!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3 col-sm-push-1">
+            <h3 class="text-center">Bocking :</h3>
+            <form action="#">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" placeholder="Enter ur name... " class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="email">E-post</label>
+                    <input type="email" id="email" placeholder="E-mail" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="date">Date</label>
+                    <input type="date" id="date" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="msg">Message</label>
+                    <textarea class="form-control" name="msg" id="msg" cols="30" rows="10" placeholder="Text... "></textarea>
+                </div>
+                <div class="form-group">
+                    <input type="button" value="Submit" class="btn btn-info" data-toggle="modal" data-target="#mes">
+                </div>
+                <div class="modal fade" id="mes">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+                                <h2 class="lead">Confirmation</h2>
+                            </div>
+                            <div class="modal-body">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab beatae delectus ex facilis omnis quo voluptatem? Accusamus aperiam assumenda id molestias nam natus nobis odio quibusdam, quisquam ratione similique vitae.</p></div>
+
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+    <!-- footer -->
+    <footer>
+        <div class="well bg">
+            <h5 class="text-center">Copyright 2017 &#9400; </h5>
+        </div>
+    </footer>
+</div>
+
+</body>
+</html>
